@@ -1,0 +1,2 @@
+# MusicBox
+Music Box is a web application for searching music tracks on discogs, which is a online music database where we can buy and sell tracks. This web app searches through the discogs database of information about audio recordings, including commercial releases, promotional releases, and off-label releases and utilizes the discogs api to query and fetch data in JSON format. Technologies used for this project are React, MySQL and NodeJS.
